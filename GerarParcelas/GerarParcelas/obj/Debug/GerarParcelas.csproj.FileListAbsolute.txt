@@ -1,0 +1,10 @@
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\bin\Debug\GerarParcelas.exe.config
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\bin\Debug\GerarParcelas.exe
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\bin\Debug\GerarParcelas.pdb
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.csproj.AssemblyReference.cache
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.Form1.resources
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.Properties.Resources.resources
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.csproj.GenerateResource.cache
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.exe
+C:\Users\ModalGR\source\repos\GerarParcelas\GerarParcelas\obj\Debug\GerarParcelas.pdb
